@@ -9,7 +9,7 @@ Aim to answer the following questions:
   - What is the average amount of debt owed by countries across different debt indicators?
 
 ## Technologies
-Jupyter Notebook
+Jupyter Notebook <br/>
 SQL
 
 ## Data Sources
